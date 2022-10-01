@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Dashboard",
-      "icon": "`${Square3Stack3DIcon}`",
+      "icon": "Square3Stack3DIcon",
       "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
     },
     {
