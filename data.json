@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Dashboard",
+      "icon": "Square3Stack3DIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 2,
+      "name": "Apps",
+      "icon": "CubeTransparentIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 3,
+      "name": "Layout",
+      "icon": "TableCellsIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 4,
+      "name": "Authentication",
+      "icon": "LockOpenIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 5,
+      "name": "Maps",
+      "icon": "MapPinIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 6,
+      "name": "Multi Level",
+      "icon": "ShareIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 7,
+      "name": "Icons",
+      "icon": "SparklesIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 8,
+      "name": "Charts",
+      "icon": "ChatBubbleBottomCenterIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 9,
+      "name": "Tables",
+      "icon": "TableCellsIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 10,
+      "name": "Forms",
+      "icon": "DocumentIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 11,
+      "name": "Widgets",
+      "icon": "GiftTopIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 12,
+      "name": "Advance UI",
+      "icon": "ComputerDesktopIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 13,
+      "name": "Base UI",
+      "icon": "CreditCardIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 14,
+      "name": "COMPONENTS",
+      "icon": "CubeIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 15,
+      "name": "Landing",
+      "icon": "DocumentChartBarIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    },
+    {
+      "id": 16,
+      "name": "Pages",
+      "icon": "DocumentMinusIcon",
+      "subItems": ["Analytics", "CRM", "Ecommerce", "Crypto", "Projects", "NFT"]
+    }
+  ]
