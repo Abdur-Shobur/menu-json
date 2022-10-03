@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Total Earnings",
+    "percent": 14.5,
+    "value": 2345,
+    "link": "View net earnings"
+  },
+  {
+    "id": 2,
+    "name": "Orders",
+    "percent": -4.5,
+    "value": 23459,
+    "link": "View all order"
+  },
+  {
+    "id": 3,
+    "name": "Customers",
+    "percent": 0,
+    "value": 63345,
+    "link": "See Details"
+  },
+  {
+    "id": 4,
+    "name": "My Balance",
+    "percent": 14.5,
+    "value": 23245,
+    "link": "Withdraw Money"
+  }
+]
