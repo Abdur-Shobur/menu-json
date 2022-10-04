@@ -1,50 +1,50 @@
 [
   {
     "month": "Jan",
-    "uv": "104"
+    "Earning": "104"
   },
   {
     "month": "Feb",
-    "uv": "324"
+    "Earning": "324"
   },
   {
     "month": "Mar",
-    "uv": "543"
+    "Earning": "543"
   },
   {
     "month": "Apr",
-    "uv": "234"
+    "Earning": "234"
   },
   {
     "month": "May",
-    "uv": "737"
+    "Earning": "737"
   },
   {
     "month": "Jun",
-    "uv": "134"
+    "Earning": "134"
   },
   {
     "month": "Jul",
-    "uv": "238"
+    "Earning": "238"
   },
   {
     "month": "Aug",
-    "uv": "342"
+    "Earning": "342"
   },
   {
     "month": "Sep",
-    "uv": "104"
+    "Earning": "104"
   },
   {
     "month": "Oct",
-    "uv": "634"
+    "Earning": "634"
   },
   {
     "month": "Nov",
-    "uv": "123"
+    "Earning": "123"
   },
   {
     "month": "Dec",
-    "uv": "453"
+    "Earning": "453"
   }
 ]
