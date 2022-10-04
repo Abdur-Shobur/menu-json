@@ -1,18 +1,18 @@
 [
   {
-    "month": "January",
+    "month": "Jan",
     "uv": "104"
   },
   {
-    "month": "February",
+    "month": "Feb",
     "uv": "324"
   },
   {
-    "month": "March",
+    "month": "Mar",
     "uv": "543"
   },
   {
-    "month": "April",
+    "month": "Apr",
     "uv": "234"
   },
   {
@@ -20,31 +20,31 @@
     "uv": "737"
   },
   {
-    "month": "June",
+    "month": "Jun",
     "uv": "134"
   },
   {
-    "month": "July",
+    "month": "Jul",
     "uv": "238"
   },
   {
-    "month": "August",
+    "month": "Aug",
     "uv": "342"
   },
   {
-    "month": "September",
+    "month": "Sep",
     "uv": "104"
   },
   {
-    "month": "October",
+    "month": "Oct",
     "uv": "634"
   },
   {
-    "month": "November",
+    "month": "Nov",
     "uv": "123"
   },
   {
-    "month": "December",
+    "month": "Dec",
     "uv": "453"
   }
 ]
